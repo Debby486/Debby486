@@ -1,5 +1,6 @@
 ### Hi, I'm Debby 👋
-### A Frontend developer with professional experience in building responsive and user-friendly web applications. Adept at translating UI/UX designs into interactive features, ensuring seamless user experiences. Proficient in web development tools, with a keen eye for design aesthetics and attention to detail. Passionate about staying up-to-date with the latest frontend technologies and trends to deliver cutting-edge solutions.
+A Frontend developer with professional experience in building responsive and user-friendly web applications. Adept at translating UI/UX designs into interactive features, ensuring seamless user experiences. Proficient in web development tools, with a keen eye for design aesthetics and attention to detail. Passionate about staying up-to-date with the latest frontend technologies and trends to deliver cutting-edge solutions.
+Open source enthusiast 🌱
 <!--
 **Debby486/Debby486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
