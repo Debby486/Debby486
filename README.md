@@ -1,15 +1,47 @@
-### Hi, I'm Debby 👋
-A Frontend developer with professional experience in building responsive and user-friendly web applications. Adept at translating UI/UX designs into interactive features, ensuring seamless user experiences. Proficient in web development tools, with a keen eye for design aesthetics and attention to detail. Passionate about staying up-to-date with the latest frontend technologies and trends to deliver cutting-edge solutions.
-Open source enthusiast 🌱
-<!--
-**Debby486/Debby486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Deborah Balogun
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI Software Engineer | Full-Stack Developer | RAG • PGVector • LLM Pipelines
+
+I build intelligent, end-to-end systems powered by LLMs, vector search, and full-stack engineering.
+My work focuses on turning complex workflows into scalable, fast, and user-friendly AI-powered experiences.
+
+🔧 Tech I Use
+
+- AI & Backend: Python, Django, FastAPI, Celery, PGVector, LangChain, RAG
+
+- Frontend: Vue.js, React, TailwindCSS
+
+- Databases: PostgreSQL, Redis
+
+- AI Services: OpenAI, Anthropic, Gemini, HuggingFace
+
+- Dev Tools: Docker, Git, WebSockets, REST APIs
+
+🚀 What I’m Currently Building
+
+- Personal RAG Assistant — A knowledge-aware chatbot powered by PGVector
+
+- Dev Career Copilot — An AI automation pipeline for CV improvement, job matching & skill extraction
+
+- Vector Search Engine — A semantic search microservice built from scratch
+
+🧠 What I’m Learning
+
+- Advanced vector search
+
+- LLM orchestration
+
+- Embedding optimization
+
+- AI system design
+
+- Scaling AI applications
+
+📝 Writing
+
+- Medium articles on my transition story, AI engineering
+
+🤝 Let’s Connect
+
+I’m always open to discussing AI, full-stack engineering, and building intelligent systems.
+
